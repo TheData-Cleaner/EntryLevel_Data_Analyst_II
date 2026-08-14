@@ -184,7 +184,7 @@ This finding suggested that education-related donor segmentation could provide a
 
 The original Data Analyst II portfolio report documents the business problem, relational datasets, SQL methods, donor analysis, Tableau visualization, findings, and fundraising recommendations developed during the EntryLevel apprenticeship.
 
-[View the Original Data Analyst II Portfolio](REPLACE_WITH_PDF_LINK)
+[View the Original Data Analyst II Portfolio](https://github.com/TheData-Cleaner/EntryLevel_Data_Analyst_II/blob/main/Entry%20Level%20Data%20Analyst%20II%20-%20Portfolio.pdf)
 
 <h2>🔎 KEY FINDINGS</h2>
 

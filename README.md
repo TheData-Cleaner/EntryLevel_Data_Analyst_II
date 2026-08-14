@@ -53,6 +53,9 @@ The analysis sought to answer:
 
 The analysis used two relational datasets containing donor and donation information.
 
+- [Donation Data](Data/2.4-EFO_Donation_Data.sql)
+- [Donor Data](Data/2.6-EFO_Donor_Data.sql)
+
 <h3>Donation Data</h3>
 
 The donation dataset contains information including:
